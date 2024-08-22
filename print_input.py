@@ -1,0 +1,5 @@
+nome=input("Informe o seu nome: ")
+idade =input("Idade: ")
+print(nome, idade)
+print("Nome:", nome, "idade:", idade, sep="||")
+print("Name: {}, Idade: {}".format(nome, idade))
